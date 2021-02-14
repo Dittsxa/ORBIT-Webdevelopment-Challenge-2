@@ -1,0 +1,21 @@
+.container {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+.circle {
+    width: 150px ;
+    height : 150px;
+    background: rgb(52, 103, 197);
+    border-radius: 50%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin: 50px auto;
+}
+
+span {
+    border-bottom : 2px solid black;
+    width: 50%;
+    margin-left:50%;
+}
